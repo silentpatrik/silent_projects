@@ -1,10 +1,10 @@
 ---
 layout: home
-permalink: "/"
-title: Athena Jekyll Theme
+permalink: /
+title: Silent Ridge Projects
 
 ---
+Some of our open source projects not listen on our website:
 
-A simple and elegant theme for Jekyll and GitHub Pages.
 
 
